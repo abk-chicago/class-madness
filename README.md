@@ -28,3 +28,12 @@ ARE YOU READY TO MAKE MOAR CLASSES?! [classes, android 101]
 - Create a new private member variable for your MainActivity: one for each class in each corresponding project (`HauntedHouse mHauntedHouse;`
 - Inside of `onCreate`, instantiate a new copy of your class using the constructor of your choice by assigning the `new` instance to your member variable (`mHauntedHouse`).
 - Inside the OnCLickListener, `setText()` on your TextView member variable to display data from your class.
+
+
+## Submission
+
+- Fork this repository
+- Clone it
+- Do the work
+- Push the work live to Github
+- Create a pull request
